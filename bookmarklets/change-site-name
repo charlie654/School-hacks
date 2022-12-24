@@ -1,0 +1,2 @@
+javascript:document.querySelector("title").innerHTML=prompt("New Title");alert("Title has been changed");
+
